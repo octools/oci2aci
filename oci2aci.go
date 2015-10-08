@@ -209,7 +209,7 @@ func genManifest(path string) *schema.ImageManifest {
 	m.ACVersion = schema.AppContainerVersion
 
 	// 3. Assemble "name" field
-	m.Name = "example"
+	m.Name = "oci"
 
 	// 4. Assemble "labels" field
 	// 4.1 "version"
