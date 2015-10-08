@@ -1,4 +1,4 @@
-package convert
+package oci2aci
 
 // LinuxSpec is the full specification for linux containers.
 type LinuxSpec struct {

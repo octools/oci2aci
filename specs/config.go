@@ -1,4 +1,4 @@
-package convert
+package oci2aci
 
 // Spec is the base configuration for the container.  It specifies platform
 // independent configuration.

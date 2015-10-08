@@ -1,4 +1,4 @@
-package convert
+package oci2aci
 
 // RuntimeSpec is the generic runtime state information on a running container
 type RuntimeSpec struct {

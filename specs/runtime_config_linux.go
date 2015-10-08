@@ -1,4 +1,4 @@
-package convert
+package oci2aci
 
 import "os"
 
