@@ -17,7 +17,7 @@ export PATH=$PATH:$GOPATH/bin
 ```
 
 ## Getting Started
-One of the philosophies behind `cli.go` is that an API should be playful and full of discovery. So a `cli.go` app can be as little as one line of code in `main()`. 
+An example illustrated as below:
 
 ``` go
 package main
